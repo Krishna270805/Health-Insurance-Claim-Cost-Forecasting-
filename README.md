@@ -65,5 +65,4 @@ This project aims to forecast monthly health insurance claim payouts using histo
 
 ---
 
-## 📧 Contact
-For queries, reach out at [your.email@example.com]
+
